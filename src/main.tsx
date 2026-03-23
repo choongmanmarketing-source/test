@@ -1,3 +1,4 @@
+import './index.css';
 import { trpc } from "./lib/trpc";
 import { UNAUTHED_ERR_MSG } from './const';
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
